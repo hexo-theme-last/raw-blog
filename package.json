@@ -29,6 +29,7 @@
     "hexo-theme-landscape": "^0.0.3",
     "hexo-wordcount": "^6.0.1",
     "require.js": "^1.0.0",
-    "requirejs": "^2.3.6"
+    "requirejs": "^2.3.6",
+    "uglify-js": "^3.17.4"
   }
 }

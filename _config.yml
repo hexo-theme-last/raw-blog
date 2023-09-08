@@ -5,7 +5,7 @@
 # Site
 title: Hexo
 subtitle: ''
-description: ''
+description: 'hexo-theme-last'
 keywords:
 author: John Doe
 language: en
@@ -103,7 +103,7 @@ theme: hexo-theme-last
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:hexo-theme-last/hexo-theme-last.github.io.git
+  repo: https://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@github.com/hexo-theme-last/hexo-theme-last.github.io.git
   branch: master
   name: hexo-theme-last
   email: 2061026079@qq.com
